@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Starbuzz</string>
+    <string name="starbuzz_logo">스타버즈로고</string>
+    <array name="options">
+        <item>음료</item>
+        <item>음식</item>
+        <item>가게</item>
+    </array>
+    <string name="title_activity_top_level">스타버즈탑</string>
+    <string name="title_activity_drink_category">스타버즈음료범주</string>
+
+    title_activity_drink_category
+</resources>
